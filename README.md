@@ -1,2 +1,5 @@
 # laravel project start
- my first laravel application 
+ beautifully styled laravel notes application 
+ SignIn and Register Functionality
+ MySql database
+ Keep Track of your notes
